@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoudarySetter", "BoudarySetter\BoudarySetter.csproj", "{D524FE06-88D5-4C36-82DF-5EE8BE0A7B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D524FE06-88D5-4C36-82DF-5EE8BE0A7B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D524FE06-88D5-4C36-82DF-5EE8BE0A7B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D524FE06-88D5-4C36-82DF-5EE8BE0A7B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D524FE06-88D5-4C36-82DF-5EE8BE0A7B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ABD792C-2AF4-4F3B-80E0-D3715F9F8821}
+	EndGlobalSection
+EndGlobal

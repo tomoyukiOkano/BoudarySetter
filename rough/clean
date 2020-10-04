@@ -1,0 +1,5 @@
+rm -r processor{0..15}
+rm -r postProcessing
+rm log
+rm -r logs
+rm -r *00
